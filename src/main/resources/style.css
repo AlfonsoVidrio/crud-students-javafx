@@ -1,0 +1,64 @@
+/* Estilos para los elementos sin clase */
+.label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #333333;
+}
+
+.text-field {
+    -fx-prompt-text-fill: #999999;
+}
+
+.table-column {
+    -fx-font-size: 12px;
+}
+
+/* Estilos para los elementos con clase */
+.background-color {
+    -fx-background-color: #ffffff;
+}
+
+.title {
+    -fx-font-size: 18px;
+    -fx-text-fill: #333333;
+}
+
+.btn-save {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-pref-width: 80.0;
+    -fx-pref-height: 30.0;
+    -fx-cursor: hand;
+}
+
+.btn-save:hover, .btn-save:focused {
+    -fx-background-color: #45a049;
+}
+
+.btn-update {
+    -fx-background-color: #2196F3;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-pref-width: 80.0;
+    -fx-pref-height: 30.0;
+    -fx-cursor: hand;
+}
+
+.btn-update:hover, .btn-update:focused {
+    -fx-background-color: #1E88E5;
+}
+
+.btn-delete {
+    -fx-background-color: #f44336;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-pref-width: 80.0;
+    -fx-pref-height: 30.0;
+    -fx-cursor: hand;
+}
+
+.btn-delete:hover, .btn-delete:focused {
+    -fx-background-color: #e53935;
+}
+
+
