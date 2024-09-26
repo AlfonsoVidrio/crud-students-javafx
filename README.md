@@ -22,6 +22,7 @@ The application allows you to easily perform create, read, update, and delete op
 
 ## Application Screenshot
 
-![CRUD](screenshot.png)
+
+<img src="screenshot.png" alt="CRUD" width="350"/>
 
 
