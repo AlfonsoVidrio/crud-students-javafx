@@ -22,6 +22,6 @@ The application allows you to easily perform create, read, update, and delete op
 
 ## Application Screenshot
 
-![CRUD](path/to/your/image.png)
+![CRUD](screenshot.png)
 
 
